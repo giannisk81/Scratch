@@ -1,3 +1,3 @@
 # Scratch
 
-This is the README file for that rep.
+This is the README file for that repository.
